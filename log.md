@@ -3,7 +3,9 @@
 ### Day 0: September 11, 2020
 
 **Today's Progress**: Learned and revised Python Syntax, User input and Functions.
+
 **Thoughts**: Just revising and practicing the stuffs that I already knew. It's always better to have a fresh start. 
+
 **What's Next**: The plan for Day 1 is to learn about Python (Control Flow), PHP (syntax, strings, variables and Numbers).
 
 
