@@ -10,6 +10,15 @@
 
 
 
+### Day 1: September 12, 2020
+
+**Today's Progress**: learned about Python control flow statements (if-else, try-except, boolean, relational operators), PHP strings, numbers and variables.
+
+**Thoughts**: Learned quite a lot of things in Day0 and Day1. Maybe it's time to take a break from learning further for a bit and focus on problem solving so that I can put my knowledge in practical use.
+
+**What's Next**: The plan for Day 2 is to learn about PHP functions, built-in functions & solve some problems online using what I learnt in Python.
+
+**Resources**: I am learning PHP and Python from Codecademy.
 
 
 
