@@ -22,6 +22,18 @@
 
 
 
+### Day 2: September 13, 2020
+
+**Today's Progress**: used python control flow knowledge to implement a small project. Learned about php functions and implemented the knowledge by making a small project as well.
+
+**Thoughts**: I was supposed to cover php built-in functions as well. But I failed to do so. It's natural to set bigger goals after completing goals in a row, but we have to keep in mind that our mind's capacity for new knowledge and the ability to deliver properly. Pressurizing ourselves will only hurt us in the end by not being able to complete the target. Lesson from today: Target what you can, not what you want.
+
+**What's Next**: The plan for Day 3 is to learn about PHP built-in functions & solve online problems using python.
+
+**online problem solving platform**: https://www.urionlinejudge.com.br/
+
+
+
 # Examples:
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
