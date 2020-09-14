@@ -33,6 +33,14 @@
 **online problem solving platform**: https://www.urionlinejudge.com.br/
 
 
+### Day 3: September 14, 2020
+
+**Today's Progress**: Learned about PHP built in functions and created a small project using php built in functions, utilizing what I have learned.
+
+**What's Next**: The plan for Day 4 is to take a break from php dedicate whole day to online problem solve using Python, aiming to solve at least 20 problems.
+
+**online problem solving platform**: https://www.urionlinejudge.com.br/
+
 
 # Examples:
 ### Day 0: February 30, 2016 (Example 2)
