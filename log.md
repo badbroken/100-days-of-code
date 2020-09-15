@@ -42,7 +42,7 @@
 **online problem solving platform**: https://www.urionlinejudge.com.br/
 
 
-### Day 3: September 14, 2020
+### Day 4: September 15, 2020
 
 **Today's Progress**: Solved programming problems using python in urionlinejudge website.
 
