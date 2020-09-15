@@ -42,6 +42,15 @@
 **online problem solving platform**: https://www.urionlinejudge.com.br/
 
 
+### Day 3: September 14, 2020
+
+**Today's Progress**: Solved programming problems using python in urionlinejudge website.
+
+**Link to today's solves**: [Online Programming Hub](https://github.com/badbroken/online-prog)
+
+**What's Next**: The plan for Day 5 is to learn about Python Lists.
+
+
 # Examples:
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
