@@ -51,7 +51,16 @@
 **What's Next**: The plan for Day 5 is to learn about Python Lists.
 
 
-# Examples:
+### Day 5: September 16, 2020
+
+**Today's Progress**: Learned about Python List, List operations. Made some small projects demonstrating what I learned.
+
+**Thoughts** : While learning about lists. I asked myself: What's the difference between arrays and lists? because they look way too similar. After doing my research, I realized they're like twins, but their characteristics are quite different. This might be a possible interview question in near future? Who knows? Doing extensive research now may seem exhausting, but this will pay out later on someday. Trust me.
+
+**What's Next**: The plan for Day 6 is to learn about Python Tuples, PHP arrays.
+
+
+# Template Examples:
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
