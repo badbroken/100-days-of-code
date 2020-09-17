@@ -60,6 +60,13 @@
 **What's Next**: The plan for Day 6 is to learn about Python Tuples, PHP arrays.
 
 
+### Day 6: September 17, 2020
+
+**Today's Progress**: Learned about PHP arrays, Python tuples.
+
+**What's Next**: The plan for Day 7 is to learn more about PHP arrays and associative arrays, solving more python problems.
+
+
 # Template Examples:
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
