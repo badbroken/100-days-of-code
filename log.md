@@ -67,6 +67,15 @@
 **What's Next**: The plan for Day 7 is to learn more about PHP arrays and associative arrays, solving more python problems.
 
 
+### Day 7: September 18, 2020
+
+**Today's Progress**: Learned about PHP arrays, associative arrays tried solving some problems using python on hackerrank, but failed to do so.
+
+**What's Next**: Nothing. Today marks the end of this section.
+
+**Thoughts**: Had a very bad day today. Mental stress, trouble at home. Tried focusing on completing what I planned for today, but failed to complete. I think it's better to approach on a self-paced basis. Since I am already following a curriculum, a series of tutorial. There's no point of pre-plan. Also, you never know what's going to happen with you the next day. Planning something and not being able to do it in time because of your inconvenience might crush your confidence. and if you're already stressed about your personal life, there's a risk you might think about quitting as well. That's why I marked the end of what's next section, so it doesn't happen to me. Be happy with what you do and accomplish, don't overestimate your capability.
+
+
 # Template Examples:
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
