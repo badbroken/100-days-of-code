@@ -76,6 +76,13 @@
 **Thoughts**: Had a very bad day today. Mental stress, trouble at home. Tried focusing on completing what I planned for today, but failed to complete. I think it's better to approach on a self-paced basis. Since I am already following a curriculum, a series of tutorial. There's no point of pre-plan. Also, you never know what's going to happen with you the next day. Planning something and not being able to do it in time because of your inconvenience might crush your confidence. and if you're already stressed about your personal life, there's a risk you might think about quitting as well. That's why I marked the end of what's next section, so it doesn't happen to me. Be happy with what you do and accomplish, don't overestimate your capability.
 
 
+### Day 8: September 19, 2020
+
+**Today's Progress**: solved online programming problems in HackerRank and UriOnlineJudge website using Python. Have committed all the problem solves of this week today to my own repo, which is linked below.
+
+**Link to week 1 solves**: [Online Programming Hub](https://github.com/badbroken/online-prog)
+
+
 # Template Examples:
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
